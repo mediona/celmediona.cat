@@ -1,3 +1,3 @@
 [build]
-  command = "hugo"
+  command = "yarn && hugo"
   publish = "public"
