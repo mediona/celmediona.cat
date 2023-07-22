@@ -5,6 +5,61 @@
     <link>http://celmediona.cat/es/tags/</link>
     <description>Recent content in Tags on CEL mediona</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>es-es</language><atom:link href="http://celmediona.cat/es/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>es-es</language>
+    <lastBuildDate>Mon, 21 Feb 2022 16:04:06 -0500</lastBuildDate><atom:link href="http://celmediona.cat/es/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>blog</title>
+      <link>http://celmediona.cat/es/tags/blog/</link>
+      <pubDate>Mon, 21 Feb 2022 16:04:06 -0500</pubDate>
+      
+      <guid>http://celmediona.cat/es/tags/blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>features</title>
+      <link>http://celmediona.cat/es/tags/features/</link>
+      <pubDate>Mon, 21 Feb 2022 16:04:06 -0500</pubDate>
+      
+      <guid>http://celmediona.cat/es/tags/features/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>images</title>
+      <link>http://celmediona.cat/es/tags/images/</link>
+      <pubDate>Sun, 20 Feb 2022 12:04:16 -0500</pubDate>
+      
+      <guid>http://celmediona.cat/es/tags/images/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>code</title>
+      <link>http://celmediona.cat/es/tags/code/</link>
+      <pubDate>Sat, 25 Jul 2020 02:04:06 -0500</pubDate>
+      
+      <guid>http://celmediona.cat/es/tags/code/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>markdown</title>
+      <link>http://celmediona.cat/es/tags/markdown/</link>
+      <pubDate>Mon, 06 Nov 2017 12:04:06 -0500</pubDate>
+      
+      <guid>http://celmediona.cat/es/tags/markdown/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>words</title>
+      <link>http://celmediona.cat/es/tags/words/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://celmediona.cat/es/tags/words/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
