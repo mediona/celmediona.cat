@@ -1,8 +1,6 @@
-baseURL                          = "http://example.com/"   # Your domain name. Must end with "/"
+baseURL                          = "http://celmediona.cat/"   # Your domain name. Must end with "/"
 theme                            = "introduction"
-DefaultContentLanguage           = "en"                    # Default language for multilingual sites
-# disqusshortname                 = ""                     # https://gohugo.io/content-management/comments
-# googleAnalytics                 = ""                     # https://gohugo.io/templates/internal/#google-analytics
+DefaultContentLanguage           = "ca"                    # Default language for multilingual sites
 
 [params]
     themeStyle                   = "auto"                  # Choose "light" or "dark" or "auto"
@@ -12,10 +10,7 @@ DefaultContentLanguage           = "en"                    # Default language fo
     fadeIn                       = true                    # Turn on/off the fade-in effect
     fadeInIndex                  = false                   # Turn on/off the fade-in effect on the index page even if fade-in was otherwise turned off
     dateFormat                   = "Jan 2, 2006"
-    email                        = "youremail@email.com"   # E-mail address for contact section
-    # customCSS                  = ["foo.css"]             # Include custom css files placed under assets/
-    # customJS                   = ["foo.js"]              # Include custom JavaScript files placed under assets/
-    # plausible                  = true                    # Use Plausible analytics (requires an account at Plausible.io)
+    email                        = "cel.mediona@gmail.com"   # E-mail address for contact section
 
     # Configure the home page
     [params.home]
@@ -25,16 +20,16 @@ DefaultContentLanguage           = "en"                    # Default language fo
         allPostsArchiveFormat    = true                    # show all posts in an archive format
         numberOfProjectsToShow   = 3                       # Maximum number of projects to show on home page. Unset or comment out to show all projects
         localTime                = true                    # Show your current local time in contact section
-        timeZone                 = "America/Los_Angeles"   # Your timezone as in the TZ* column of this list: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-        timeFormat               = "en-US"                 # Language specific format to use
+        timeZone                 = "Europe/Paris"   # Your timezone as in the TZ* column of this list: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+        timeFormat               = "es-ES"                 # Language specific format to use
     [params.projects]
         useTwoColumns            = false                   # Use a layout with two columns instead of three
 
     # Share buttons on blog post pages
     [params.share]
-        twitter                  = true
-        facebook                 = true
-        pinterest                = true
+        twitter                  = false
+        facebook                 = false
+        pinterest                = false
 
     # To enable giscus, the GitHub-discussions-based comment section,
     # input the repository for the discussions below. For more details, see
@@ -49,7 +44,7 @@ DefaultContentLanguage           = "en"                    # Default language fo
         reactions-enabled = "1"
         emit-metadata = "0"
         theme = "light"
-        lang = "en"
+        lang = "es"
 
     # Social icons appear in introduction and contact section. Add as many more as you like.
     # Icon pack "fab" includes social network icons, see: https://fontawesome.com/icons?d=gallery&s=brands&m=free
@@ -111,33 +106,22 @@ DefaultContentLanguage           = "en"                    # Default language fo
     tabWidth = 4
 
 [languages]
-    [languages.en]
-        languageName     = "English"
-        languageCode     = "en-us"
-        contentDir       = "content/en"
-        weight           = 0
-        title            = "Introduction"
-        [languages.en.params]
-            description  = "Website Description"   # Max 160 characters show in search results
-            # footerText   = ""                      # Text to override default footer text (markdown allowed)
-
     [languages.es]
         languageName     = "Español"
-        languageCode     = "es"
+        languageCode     = "es-es"
         contentDir       = "content/es"
-        weight           = 1
-        title            = "Introducción"
-        [languages.es.params]
-            description  = "Descripcion del sitio web"
-            # footerText   = ""
+        weight           = 0
+        title            = "CEL mediona"
+        [languages.en.params]
+            description  = "CEL mediona para generar energia para todo el municipio"   # Max 160 characters show in search results
+            # footerText   = ""                      # Text to override default footer text (markdown allowed)
 
-    [languages.de]
-        languageName     = "Deutsch"
-        languageCode     = "de"
-        contentDir       = "content/de"
-        weight           = 2
-        title            = "Vorstellung"
-        [languages.de.params]
-            dateFormat   = "2. January 2006"
-            description  = "Beschreibung der Webseite"
+    [languages.ca]
+        languageName     = "Catalan"
+        languageCode     = "ca"
+        contentDir       = "content/ca"
+        weight           = 1
+        title            = "CEL Mediona"
+        [languages.es.params]
+            description  = "Cel de Mediona desc"
             # footerText   = ""

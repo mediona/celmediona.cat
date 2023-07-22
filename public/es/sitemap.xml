@@ -2,55 +2,55 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.com/es/</loc>
+    <loc>http://celmediona.cat/es/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="de"
-                href="http://example.com/de/"
+                hreflang="ca"
+                href="http://celmediona.cat/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en-us"
-                href="http://example.com/"
+                hreflang="en"
+                href="http://celmediona.cat/en/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="es"
-                href="http://example.com/es/"
-                />
-  </url><url>
-    <loc>http://example.com/es/series/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://example.com/de/series/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://example.com/series/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="http://example.com/es/series/"
+                hreflang="es-es"
+                href="http://celmediona.cat/es/"
                 />
   </url><url>
-    <loc>http://example.com/es/tags/</loc>
+    <loc>http://celmediona.cat/es/series/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="de"
-                href="http://example.com/de/tags/"
+                hreflang="ca"
+                href="http://celmediona.cat/series/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en-us"
-                href="http://example.com/tags/"
+                hreflang="en"
+                href="http://celmediona.cat/en/series/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="es"
-                href="http://example.com/es/tags/"
+                hreflang="es-es"
+                href="http://celmediona.cat/es/series/"
+                />
+  </url><url>
+    <loc>http://celmediona.cat/es/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ca"
+                href="http://celmediona.cat/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://celmediona.cat/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-es"
+                href="http://celmediona.cat/es/tags/"
                 />
   </url>
 </urlset>
