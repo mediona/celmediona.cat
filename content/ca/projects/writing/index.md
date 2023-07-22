@@ -1,5 +1,5 @@
 ---
-title: "Writing"
+title: "Escribiendo"
 weight: 3
 ---
 

@@ -1,6 +1,5 @@
 ---
-title: "Hi, I'm Introduction"
-headless: true
+title: "Comunitat Energètica Local de Mediona"
+headless: false
 ---
 
-I'm a theme for Hugo.
