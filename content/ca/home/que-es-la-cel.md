@@ -1,9 +1,8 @@
 ---
-title: "Que es la CEL?"
+title: "Que es la CEL de Mediona?"
 image: "cel.png"
 weight: 8
 ---
-
 
 És una comunitat energètica local de Mediona, també anomenada CEL de Mediona, formada de diferents agents, en el nostre cas l'Ajuntament, comerços i ciutadans, per tal de produir, distribuir i consumir energia de manera compartida.
 
@@ -15,4 +14,4 @@ Part d'aquesta primera fase, busquem constituir una cooperativa i integrar a la 
 
 Si t'interessa, no dubtis a contactar-nos a celmediona@gmail.com. A la part de Fes-te soci' detallem què cal per formar-ne part.
 
-Si encara no et queda clar per què fer-te'n sòcia, aquí te'n detallem els avantatges
+Si encara no et queda clar per què [fer-te'n sòcia](/#contacte), aquí te'n detallem els avantatges

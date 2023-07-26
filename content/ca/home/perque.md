@@ -12,4 +12,4 @@ Ambiental: Produïm l'energia al costat de casa nostra d'una, o diverses en un f
 Solidaritat: Podem acollir famílies en situació de pobresa energètica, ajudant-los a reduir la factura de la llum amb els excedents d'energia que produeix la nostra instal·lació i no haver de mal vendre aquest sobrant a les companyies elèctriques.
 Fortalesa: A la comunitat, podem aprofitar l'energia ja que tenim més diversitat d'ús. Comerços o ajuntament poden tenir un consum més matinal mentre que les famílies més vespertí. El nostre objectiu és no abocar res a la xarxa i poder aprofitar com més energia millor. De forma col·lectiva sempre podem afrontar mals moments mitjor o planificar projecte de més escala que de manera individual.
 
-Fes-te soci
+[fer-te'n sòcia](/#contacte)

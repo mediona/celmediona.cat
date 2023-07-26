@@ -1,5 +1,5 @@
 ---
-title: "Comunitat Energètica Local de Mediona"
+title: "Fent un poble més just"
 headless: false
 ---
 
