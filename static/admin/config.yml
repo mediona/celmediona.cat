@@ -4,11 +4,9 @@ backend:
 media_folder: static/img
 public_folder: /img
 collections:
-  - name: 'blog'
-    label: 'Blog'
-    folder: 'content/blog'
-    create: true
-    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+  - name: 'Home CA'
+    label: 'Home'
+    folder: 'content/ca/home'
     editor:
       preview: false
     fields:
