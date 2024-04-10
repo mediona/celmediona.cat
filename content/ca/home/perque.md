@@ -16,4 +16,4 @@ Creiem que hi ha diferents raons per les que vulguis ser part de la nostra comun
 
 - **Fortalesa**: A la comunitat, podem aprofitar l'energia ja que tenim més diversitat d'ús. Comerços o ajuntament poden tenir un consum més matinal mentre que les famílies més vespertí. El nostre objectiu és no abocar res a la xarxa i poder aprofitar com més energia millor. De forma col·lectiva sempre podem afrontar mals moments mitjor o planificar projecte de més escala que de manera individual.
 
-[Fer-te'n sòcia!](https://rvug190d677.typeform.com/to/n8sbAOY5)
+[Fer-te'n sòcia!](https://form.typeform.com/to/n8sbAOY5)
