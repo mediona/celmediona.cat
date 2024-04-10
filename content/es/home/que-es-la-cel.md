@@ -1,7 +1,7 @@
 ---
-*title: "Que se la CEL de Mediona?"
-*image: "cel.png"
-*weight: 8
+title: "Que se la CEL de Mediona?"
+image: "cel.png"
+weight: 8
 ---
 
 Es una comunidad energética local de Mediona, también denominada CEL de Mediona, donde colaboran diferentes agentes, en nuestro caso el Ayuntamiento, comercios y ciudadanos, para producir, distribuir y consumir energía de manera compartida.
